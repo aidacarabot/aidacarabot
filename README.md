@@ -1,5 +1,13 @@
 ## Hi, I'm Aida  👋🏼 👩🏼‍💻
 
+##About Me
+
+##Skills
+
+#Database
+#GitHub Stats
+#Let's Connect...!
+
 <!--
 **aidacarabot/aidacarabot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
