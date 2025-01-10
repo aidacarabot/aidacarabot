@@ -1,4 +1,4 @@
-## Hi, I'm Aida  👋👩🏼‍💻
+## Hi, I'm Aida  👋🏼 👩🏼‍💻
 
 <!--
 **aidacarabot/aidacarabot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
