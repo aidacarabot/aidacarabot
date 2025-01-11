@@ -8,8 +8,9 @@
 <br>
 
 # 👩🏼‍💻 About Me
+🌱 I’m currently learning WEB Development Full-Stack
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Skills
 
 <p align="center">
  
@@ -50,23 +51,22 @@
 <a href='' target="_blank"><img alt='postman' src='https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=postman&logoColor=FFFFFF&labelColor=FF7300&color=FF7300'/></a>
 <a href='' target="_blank"><img alt='slack' src='https://img.shields.io/badge/slack-100000?style=for-the-badge&logo=slack&logoColor=FFFFFF&labelColor=9D0C87&color=9D0C87'/></a>
 <a href='' target="_blank"><img alt='notion' src='https://img.shields.io/badge/notion-100000?style=for-the-badge&logo=notion&logoColor=FFFFFF&labelColor=56534B&color=56534B'/></a>
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-<img src="{[BadgeURLHere](https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)}" />
-  
-
+![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Warp](https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)
 
 - **📚 Currently Learning**:
 
 <ul>
-<a href='' target="_blank"><img alt='python' src='https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=1475DD&labelColor=FFD900&color=1475DD'/></a>
+	
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 
 </ul> 
-
-
 </p>
-
-<br>
 <br>
 
 -----
@@ -75,12 +75,25 @@
 
 
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aidacarabot&show_icons=true&theme=dark&locale=en"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aidacarabot&show_icons=true&theme=dark&locale=en&layout=compact"/></p>   
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 
 
-# Let's Connect...!
+
+
+
+# 🙋🏼‍♀️ Let's Connect
 
 <div align='left'>
 
