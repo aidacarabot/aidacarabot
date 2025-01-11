@@ -19,7 +19,18 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Surf and Coding are my passions! 🌊👩🏼‍💻
+- I am always working on new projects and tech ideas to develop, I love to code and enjoy it!
+- I always have weird and random ideas and love to give them life by developing them through code!
+- 🏫 I am a Junior at Faculty of Computers & Informatics at Suez Canal University.
+🏆 2x ACPC Finalist.
+🧑‍💻 I love using Software as a solution for every Problem.
+💻 I am a competitive programmer at Codeforces, Atcoder, Leetcode, Codechef, Google Contests.
+🧑‍🎓 I’m currently learning Computer Science and Software Engineering.
+🤓 Always learning new things.
+🤔 I’m currently open for a new job opportunity, this is MY RESUME.
+💥 You can visit MY WEBSITE.
+- 
 
 <br>
 <br>
