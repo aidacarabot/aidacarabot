@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://aidacarabot.netlify.app/">Aida  Carabot<a> !</h1>
-<h3 align="center">Full-Stack Developer in Training | Ex-Amazon Brand Manager | BBA Graduate to Tech </h3>
+<h3 align="center">Junior Full-Stack Developer | Ex-Amazon Brand Manager | BBA Graduate to Tech </h3>
 
 -----
 <br>
@@ -31,6 +31,8 @@
 🤓 Always learning new things.
 🤔 I’m currently open for a new job opportunity, this is MY RESUME.
 💥 You can visit MY WEBSITE.
+🖥️  See my portfolio at https://lethamburn.vercel.app
+✉️  You can contact me at antoniorosalesmartinez90@gmail.com
 - 
 
 <br>
@@ -79,6 +81,7 @@
 ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Warp](https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white)
 
 - **📚 Currently Learning**:
 
@@ -97,7 +100,11 @@
 <br>
 <br>
 
-
+# Certifications! 🏆
+<a href='https://verified.sertifier.com/en/verify/23217705609352/' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/javascript_developer-100000?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=FFD500&color=1475DD'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/more_on the way!-100000?style=for-the-badge&logo=&logoColor=white&labelColor=black&color=424242'/></a>
+<br>
+<br>
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aidacarabot&show_icons=true&theme=dark&locale=en"/></p>
