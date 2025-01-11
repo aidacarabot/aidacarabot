@@ -5,16 +5,21 @@
 
  <h1 align="center"><b>Hi, I'm Aida! </b></h1>
 <h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
+
+-----
 <br>
 
 # 👩🏼‍💻 About Me
 🌱 I’m currently learning WEB Development Full-Stack
+☁️ I've keen interest in cloud computing. So,I'm learning AWS
+
+<br>
+<br>
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Skills
 
 <p align="center">
  
-    
 - **🎨 Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -68,9 +73,6 @@
 </ul> 
 </p>
 <br>
-
------
-
 <br>
 
 
@@ -78,6 +80,8 @@
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aidacarabot&show_icons=true&theme=dark&locale=en"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aidacarabot&show_icons=true&theme=dark&locale=en&layout=compact"/></p>   
+<br>
+<br>
 <br>
 <br>
 <br>
