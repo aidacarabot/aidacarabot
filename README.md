@@ -4,37 +4,26 @@
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://aidacarabot.netlify.app/">Aida  Carabot<a> !</h1>
-<h3 align="center">Junior Full-Stack Developer | Ex-Amazon Brand Manager | BBA Graduate to Tech </h3>
+<h3 align="center">Junior Full-Stack Developer | Ex-Amazon Brand Manager | BBA Graduate transitioning to Tech </h3>
 
 -----
-<br>
+<p align="center">
+<em>
+I'm a former Amazon Brand Manager now pursuing a career as a Junior Full-Stack Developer. With a background in Business Administration and fresh coding skills from a recent bootcamp, I'm passionate about creating innovative web solutions. I love bringing ideas to life through code and I'm always eager to learn new technologies. Currently seeking opportunities to grow and contribute in the exciting world of web development.
+</em>
+</p>
 
 # 👩🏼‍💻 About Me
-- 🌱 I’m currently learning WEB Development Full-Stack
-- ☁️ I've keen interest in cloud computing. So,I'm learning AWS
-- 🔭 I’m currently working on ...
-- The more I learn about and know about this fascinating techy world, the more it interests me and the more I want to learn 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Surf and Coding are my passions! 🌊👩🏼‍💻
-- I am always working on new projects and tech ideas to develop, I love to code and enjoy it!
-- I always have weird and random ideas and love to give them life by developing them through code!
-- 🏫 I am a Junior at Faculty of Computers & Informatics at Suez Canal University.
-🏆 2x ACPC Finalist.
-🧑‍💻 I love using Software as a solution for every Problem.
-💻 I am a competitive programmer at Codeforces, Atcoder, Leetcode, Codechef, Google Contests.
-🧑‍🎓 I’m currently learning Computer Science and Software Engineering.
-🤓 Always learning new things.
-🤔 I’m currently open for a new job opportunity, this is MY RESUME.
-💥 You can visit MY WEBSITE.
-🖥️  See my portfolio at https://lethamburn.vercel.app
-✉️  You can contact me at antoniorosalesmartinez90@gmail.com
-- 
-
+- 👩🏼‍🎓 Junior Full-Stack Developer eager to start a new career
+- 🚀 Actively seeking opportunities in Web Development
+- 🌱 Recently completed a Full-Stack Web Development Bootcamp
+- 📚 Constantly learning and expanding my tech toolkit
+- 💻 Always working on new projects and bringing random ideas to life through code
+- 🤝 Open to collaborations and exciting projects in the tech space
+- 🌟 The more I dive into this fascinating tech world, the more I want to learn
+- 📫 Reach me at: aidacarabot.tosar@gmail.com
+- 🔗 Portfolio: https://aidacarabot.netlify.app/
 <br>
 <br>
 
