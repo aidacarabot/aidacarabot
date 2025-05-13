@@ -4,12 +4,12 @@
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://aidacarabot.netlify.app/">Aida  Carabot<a> !</h1>
-<h3 align="center">Junior Full-Stack Developer | Ex-Amazon Brand Manager | BBA Graduate transitioning to Tech </h3>
+<h3 align="center">Full-Stack Developer | Ex-Amazon | BBA Graduate </h3>
 
 -----
 <p align="center">
 <em>
-I'm a former Amazon Brand Manager now pursuing a career as a Junior Full-Stack Developer. With a background in Business Administration and fresh coding skills from a recent bootcamp, I'm passionate about creating innovative web solutions. I love bringing ideas to life through code and I'm always eager to learn new technologies. Currently seeking opportunities to grow and contribute in the exciting world of web development.
+I'm a Full-Stack Developer passionate about building clean, functional, and creative web applications. With a background in Business Administration and fresh coding skills from a recent bootcamp. I love bringing ideas to life through code and I'm always eager to learn new technologies. Currently seeking opportunities to grow and contribute in the exciting world of web development.
 </em>
 </p>
 
