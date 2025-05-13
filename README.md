@@ -9,7 +9,7 @@
 -----
 <p align="center">
 <em>
-I'm a Full-Stack Developer passionate about building clean, functional, and creative web applications. With a background in Business Administration and fresh coding skills from a recent bootcamp. I love bringing ideas to life through code and I'm always eager to learn new technologies. Currently seeking opportunities to grow and contribute in the exciting world of web development.
+I'm a Full-Stack Developer passionate about building clean, functional, and creative web applications. With a background in Business Administration and fresh coding skills from a recent bootcamp, I love turning ideas into reality through code. I'm always eager to learn new technologies and take on exciting challenges. Currently seeking opportunities to grow, build, and contribute in the dynamic world of web development.
 </em>
 </p>
 
