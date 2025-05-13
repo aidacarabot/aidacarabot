@@ -45,6 +45,7 @@ I'm a Full-Stack Developer passionate about building clean, functional, and crea
 <a href='' target="_blank"><img alt='MONGODB' src='https://img.shields.io/badge/MONGO_DB-100000?style=for-the-badge&logo=MONGODB&logoColor=FFFFFF&labelColor=20764B&color=20764B'/></a>
 <a href='' target="_blank"><img alt='node.js' src='https://img.shields.io/badge/NODE.JS-100000?style=for-the-badge&logo=node.js&logoColor=FFFFFF&labelColor=45D45D&color=45D45D'/></a>
 <a href='' target="_blank"><img alt='express' src='https://img.shields.io/badge/express.js-100000?style=for-the-badge&logo=express&logoColor=000000&labelColor=FFD900&color=FFD900'/></a>
+<a href='' target="_blank"><img alt='API' src='https://img.shields.io/badge/REST_API-100000?style=for-the-badge&logo=API&logoColor=FFFFFF&labelColor=008FE7&color=008FE7'/></a>
 <a href='' target="_blank"><img alt='api ' src='https://img.shields.io/badge/api_rest -100000?style=for-the-badge&logo=api &logoColor=FFFFFF&labelColor=008FE7&color=008FE7'/></a>
 </ul>
 
