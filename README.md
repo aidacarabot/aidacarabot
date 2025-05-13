@@ -39,7 +39,7 @@ I'm a Full-Stack Developer passionate about building clean, functional, and crea
 <a href='' target="_blank"><img alt='react' src='https://img.shields.io/badge/REACT-100000?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=3FC5FF&color=3FC5FF'/></a>
 <a href='' target="_blank"><img alt='sass' src='https://img.shields.io/badge/sass-100000?style=for-the-badge&logo=sass&logoColor=FFFFFF&labelColor=F481D3&color=F481D3'/></a>
 <a href='' target="_blank"><img alt='CHAKRA UI' src='https://img.shields.io/badge/CHAKRA_UI -100000?style=for-the-badge&logo=CHAKRA UI&logoColor=FFFFFF&labelColor=1ED089&color=1ED089'/></a>
-<a href='' target="_blank"><img alt='styled components' src='https://img.shields.io/badge/styled_components-100000?style=for-the-badge&logo=styled components&logoColor=FFFFFF&labelColor=E966ED&color=E966ED'/></a>
+<a href='' target="_blank"><img alt='styled components' src='https://img.shields.io/badge/styled_components-100000?style=for-the-badge&logo=styledcomponents&logoColor=FFFFFF&labelColor=E966ED&color=E966ED'/></a>
 
 - **⚙️ Back-End Development**:
   
