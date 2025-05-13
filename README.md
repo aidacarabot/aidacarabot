@@ -38,6 +38,8 @@ I'm a Full-Stack Developer passionate about building clean, functional, and crea
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 <a href='' target="_blank"><img alt='react' src='https://img.shields.io/badge/REACT-100000?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=3FC5FF&color=3FC5FF'/></a>
 <a href='' target="_blank"><img alt='sass' src='https://img.shields.io/badge/sass-100000?style=for-the-badge&logo=sass&logoColor=FFFFFF&labelColor=F481D3&color=F481D3'/></a>
+<a href='' target="_blank"><img alt='CHAKRA UI' src='https://img.shields.io/badge/CHAKRA_UI -100000?style=for-the-badge&logo=CHAKRA UI&logoColor=FFFFFF&labelColor=1ED089&color=1ED089'/></a>
+<a href='' target="_blank"><img alt='styled components' src='https://img.shields.io/badge/styled_components-100000?style=for-the-badge&logo=styled components&logoColor=FFFFFF&labelColor=E966ED&color=E966ED'/></a>
 
 - **⚙️ Back-End Development**:
   
@@ -46,7 +48,7 @@ I'm a Full-Stack Developer passionate about building clean, functional, and crea
 <a href='' target="_blank"><img alt='node.js' src='https://img.shields.io/badge/NODE.JS-100000?style=for-the-badge&logo=node.js&logoColor=FFFFFF&labelColor=45D45D&color=45D45D'/></a>
 <a href='' target="_blank"><img alt='express' src='https://img.shields.io/badge/express.js-100000?style=for-the-badge&logo=express&logoColor=000000&labelColor=FFD900&color=FFD900'/></a>
 <a href='' target="_blank"><img alt='API' src='https://img.shields.io/badge/REST_API-100000?style=for-the-badge&logo=API&logoColor=FFFFFF&labelColor=008FE7&color=008FE7'/></a>
-<a href='' target="_blank"><img alt='api ' src='https://img.shields.io/badge/api_rest -100000?style=for-the-badge&logo=api &logoColor=FFFFFF&labelColor=008FE7&color=008FE7'/></a>
+<a href='' target="_blank"><img alt='' src='https://img.shields.io/badge/NO_SQL-100000?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=0DA6FF&color=083176'/></a>
 </ul>
 
 
