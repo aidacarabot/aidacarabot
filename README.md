@@ -92,7 +92,7 @@ I'm a Full-Stack Developer passionate about building clean, functional, and crea
 # Certifications! 🏆
 <a href='https://verified.sertifier.com/en/verify/23217705609352/' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/javascript_developer-100000?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=FFD500&color=black'/></a>
 <a href='https://verified.sertifier.com/es/verify/31051213939292/' target="_blank"><img alt='React' src='https://img.shields.io/badge/Frontend_developer-100000?style=for-the-badge&logo=React&logoColor=FFFFFF&labelColor=0DA6FF&color=black'/></a>
-<a href='https://verified.sertifier.com/es/verify/90450500239736/' target="_blank"><img alt='Node.js' src='https://img.shields.io/badge/Bakend_developer-100000?style=for-the-badge&logo=Node.js&logoColor=FFFFFF&labelColor=1CAD4D&color=black'/></a>
+<a href='https://verified.sertifier.com/es/verify/90450500239736/' target="_blank"><img alt='Node.js' src='https://img.shields.io/badge/Backend_developer-100000?style=for-the-badge&logo=Node.js&logoColor=FFFFFF&labelColor=1CAD4D&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/more_on the way!-100000?style=for-the-badge&logo=&logoColor=white&labelColor=black&color=424242'/></a>
 <br>
 <br>
