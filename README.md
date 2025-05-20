@@ -15,7 +15,6 @@ I'm a Full-Stack Developer passionate about building clean, functional, and crea
 
 # 👩🏼‍💻 About Me
 - ⚡ Fun fact: Surf and Coding are my passions! 🌊👩🏼‍💻
-- 👩🏼‍🎓 Junior Full-Stack Developer eager to start a new career
 - 🚀 Actively seeking opportunities in Web Development
 - 🌱 Recently completed a Full-Stack Web Development Bootcamp
 - 📚 Constantly learning and expanding my tech toolkit
