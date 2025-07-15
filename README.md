@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://aidacarabot.netlify.app/">Aida  Carabot<a> !</h1>
-<h3 align="center">Full-Stack Developer | Ex-Amazon | BBA Graduate </h3>
+<h3 align="center">Full-Stack Developer | Ex-Amazon | BBA & Tech Graduate </h3>
 
 -----
 <p align="center">
